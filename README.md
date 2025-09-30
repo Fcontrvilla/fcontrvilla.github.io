@@ -59,8 +59,6 @@ Aquí encontrarás una selección de los proyectos que desarrollé durante mi fo
 
 ### Proyecto Frontend: Olivia Ros
 
-![Olivia Ros](assets/img/portfolio/olivia-ros-web-image.png)
-
 *   **Descripción**: Maquetación de un sitio web responsivo utilizando tecnologías frontend modernas.
 *   **Tecnologías**: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap 5`.
 *   **Repositorio**: Fcontrvillaa/Desafio-guiado-Oivia-Ros
